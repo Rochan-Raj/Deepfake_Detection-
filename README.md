@@ -85,6 +85,8 @@ The following libraries are used in this project:
   
 ## Results
 
+1.The resultant Predicted likelihood came to *72.93%* in my experiment.
+
 1.The Meso4 model demonstrates effective performance in distinguishing real vs deepfake images
 
 2.Due to its compact architecture, it trains faster compared to deeper CNNs
