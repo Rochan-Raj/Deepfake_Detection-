@@ -85,7 +85,7 @@ The following libraries are used in this project:
   
 ## Results
 
-1.The resultant Predicted likelihood came to *72.93%* in my experiment.
+1.The resultant Predicted likelihood came to *72.93%* in my experiment after processing 10,000 images in google colab.
 
 2.The Meso4 model demonstrates effective performance in distinguishing real vs deepfake images
 
